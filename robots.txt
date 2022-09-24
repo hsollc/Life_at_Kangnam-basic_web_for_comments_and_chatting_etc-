@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: http://hsollc.github.io/sitemap.xml
